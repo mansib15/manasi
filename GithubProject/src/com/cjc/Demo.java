@@ -18,5 +18,6 @@ public class Demo {
 	public void m2() {
 		System.out.println("M2 Method");
 	}
-
+        public void m3(){
+		//syso
 }
